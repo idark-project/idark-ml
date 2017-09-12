@@ -12,3 +12,7 @@ The dataset is too large to host on github. Here's step-by-step intructions on h
 2. Uncompress and place the file in this directory (path should be cmssm/CMSSM.hdf5, relative to repository root.)
 3. Run `python extract_columns.py` to construct CMSSM_subset.hdf5.
 4. Done.
+
+
+# References 
+* [https://arxiv.org/pdf/1709.02249.pdf](https://arxiv.org/pdf/1709.02249.pdf)
