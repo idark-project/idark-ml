@@ -16,3 +16,6 @@ The dataset is too large to host on github. Here's step-by-step intructions on h
 
 # References 
 * [https://arxiv.org/pdf/1709.02249.pdf](https://arxiv.org/pdf/1709.02249.pdf)
+* [Drop-out as Bayesian Approximation](https://arxiv.org/abs/1506.02142), there's a series of papers on this topic from Yarin Gal.
+* [Blog introduction to Mixture Density Networks](http://blog.otoro.net/2015/06/14/mixture-density-networks/)
+* [Bishop on Mixture Density Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bishop-ncrg-94-004.pdf)
